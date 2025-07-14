@@ -1,4 +1,11 @@
 # Sudoku-Solver-and-Generator
 This repository includes all the source code of sudoku solver and generator in HDL-Verilog language. It has 3 types of sudoku solver 9x9, 10x10 and 16x16 and a single 10x10 sudoku generator
 
-This project was created for the End-Semester project of one of the courses offered at Ahmedabad University, in a group of 3.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+To execute this run the respective testebench and design code together. If verilog not installed in your computer, one can use EDA playground for execution.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+This project was created for the End-Semester project of the course "CSE-213: Digital Logic With Hardware Description Language" offered at Ahmedabad University.
+This project was created in a group of 3
