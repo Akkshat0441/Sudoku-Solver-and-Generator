@@ -4,8 +4,3 @@ This repository includes all the source code of sudoku solver and generator in H
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 To execute this run the respective testebench and design code together. If verilog not installed in your computer, one can use EDA playground for execution.
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-This project was created for the End-Semester project of the course "CSE-213: Digital Logic With Hardware Description Language" offered at Ahmedabad University.
-This project was created in a group of 3
